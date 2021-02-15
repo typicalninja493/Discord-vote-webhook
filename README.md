@@ -1,6 +1,6 @@
 ## Discord vote webhook
 
-#### Easy to use vote webhooks for discord botlists (server lists support soon)
+#### Easy to use vote webhook for discord botlists (server lists support soon)
 
 ---------------------------------
 
@@ -131,3 +131,21 @@ Please report all the issue to https://github.com/typicalninja493/Discord-vote-w
 | Support servers lists | ❌ |
 | Use chalk instead of consola for every console stuff | ❌ |
 | Handle errors nicely | ❌ |
+
+
+#### Hosting/running
+
+you can use one of the below to host this
+
+1. [repl.it](https://repl.it/)
+
+** repl.it files a public learn to use .env if u want to use repl.it
+
+Here a quick button for repl.it 
+
+[![Run on Repl.it](https://repl.it/badge/github/typicalninja493/Discord-vote-webhook)](https://repl.it/github/typicalninja493/Discord-vote-webhook)
+
+
+2. glitch.com
+
+3. your own pc
