@@ -10,6 +10,8 @@
 
 **>** node.js
 
+**>** Discord bot with a token
+
 **>** Npm packages :
  > 1. [express](https://www.npmjs.com/package/express)
  > 2. [discord.js](https://discord.js.org/#/)
@@ -84,3 +86,50 @@ Adding a new list is easy
 if everything is well you should see this
 
 ![alt text](https://raw.githubusercontent.com/typicalninja493/Discord-vote-webhook/master/images/expect1.png)
+
+
+** Please change https://localhost:3000/top.gg to the url you use(ip or like that)
+
+*** port can be changed in the config
+
+
+#### on The edit page of your botlists webhook config
+
+Make sure all the credntials are correct in your webhook edit page on your preffered botlist
+
+** should support most botlists
+
+
+
+### Issues:
+
+Please report all the issue to https://github.com/typicalninja493/Discord-vote-webhook/issues
+
+#### Known issues :
+
+✅ - no issues
+
+
+#### support
+
+
+[Axix development](https://discord.gg/3N3mMwfTdm)
+[Ninja lands](https://discord.gg/BtGVEREhPm)
+
+
+##### Todo
+
+```
+❌ - Not yet started
+
+✖️ - ongoing
+
+✅ - Done
+```
+
+
+| Todo | Status |
+| ----------- | ----------- |
+| Support servers lists | ❌ |
+| Use chalk instead of consola for every console stuff | ❌ |
+| Handle errors nicely | ❌ |
