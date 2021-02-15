@@ -83,4 +83,4 @@ Adding a new list is easy
 
 if everything is well you should see this
 
-
+![alt text](images/expect1.png)
