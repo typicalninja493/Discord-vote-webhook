@@ -54,8 +54,6 @@ if your curious the bot i used here is my own bot [axix](https://axixbot.tk) go 
     "color": ""
 
   }
-
-
 ```
 
 
@@ -67,6 +65,7 @@ Adding a new list is easy
 1. Go to lists.js
 2. Add The list you need in to the lists(example below) 
   ex :- to add a bot lists called top.gg we will do 
+
    ```
    "top.gg": "kindofapassword",
    ```
@@ -75,8 +74,7 @@ Adding a new list is easy
 
    ```
    "name": "password"
-
-  ```
+   ```
 
   where password is what you put as the authentication password in your botlists webhook page, and name of what ever of your liking
 
